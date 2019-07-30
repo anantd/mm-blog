@@ -64,7 +64,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : GbWTpFobA0DbuakQzKUWxeX5_iFiKs96fen5rn0jwls
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -97,8 +97,8 @@ author:
   name             : "Anant Dalela"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Trying to keep up on my reading lists and storing the evidence."
-  location         : "Somewhere"
-  email            :
+  location         : 
+  email            : "anant [at] gmail"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -129,8 +129,8 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "https://github.com/anantd"
-      # url:
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/anantd"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
