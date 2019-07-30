@@ -2,7 +2,7 @@
 layout: single
 date: 2018-01-10
 title: Initial commit
-tags: [setup, intro]
+tags: [setup, intro, data-science]
 categories: [blog]
 slug: initial-commit
 excerpt: "Some new year resolutions."
