@@ -128,9 +128,6 @@ footer:
     - label: "Newsletter"
       icon: "fas fa-pen-square"
       url: "https://buttondown.email/anant"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/anantd"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
 
