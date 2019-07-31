@@ -6,5 +6,8 @@ main:
     url: /archive
   - title: "Notebooks"
     url: /notebooks
+  - title: "Bookshelf"
+    url: /bookshelf
   - title: "Tags"
     url: /tags
+  

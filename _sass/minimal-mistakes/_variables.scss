@@ -6,7 +6,10 @@
    Typography
    ========================================================================== */
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 $doc-font-size: 16 !default;
+
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -14,7 +17,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: "Avenir", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: "Open Sans", "Avenir", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -30,7 +33,7 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$header-font-family: "Noto Sans", $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
