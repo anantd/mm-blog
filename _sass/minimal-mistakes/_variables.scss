@@ -6,8 +6,7 @@
    Typography
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
 $doc-font-size: 16 !default;
 
 
@@ -17,7 +16,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: "Open Sans", "Avenir", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: "Avenir", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 

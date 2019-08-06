@@ -6,10 +6,10 @@ github: [metadata]
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anant's blog"
+title                    : "Anant Dalela"
 title_separator          : "-"
 name                     : "Anant Dalela"
-description              : "An amazing website."
+description              : " "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "anantd/mm-blog"
