@@ -9,6 +9,11 @@
 
 $doc-font-size: 16 !default;
 
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -16,7 +21,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: "Avenir", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: "Inter", "Avenir", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
