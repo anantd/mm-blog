@@ -1,9 +1,9 @@
 ---
-date: 2019-08-01
-title: Initial commit
+date: 2019-08-05
+title: Getting Started
 tags: [writing]
 categories: [blog]
-slug: initial-commit
+slug: getting-started
 ---
 
 Welcome! This is the first in what I hope will become a regular stream of posts and updates on my progression through the world of data science and machine learning.
