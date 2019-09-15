@@ -15,7 +15,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anantd/mm-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -98,9 +98,9 @@ analytics:
 author:
   name             : "Anant Dalela"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Trying to keep up on my reading lists and storing the evidence."
+  bio              : "Trying to keep up on my reading lists and storing the evidence. I write mostly about [#datascience](/tags/#data-science)."
   location         : 
-  email            : "[first name].[last name] [at] gmail"
+  email            : "anant.dalela [at] gmail"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -108,6 +108,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/4nant"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"  
+      url: "/feed.xml"
     - label: "Newsletter"
       icon: fas fa-fw fa-pen-square"
       url: "https://buttondown.email/anant"
@@ -201,7 +204,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
