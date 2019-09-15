@@ -5,5 +5,12 @@ permalink: bookshelf
 comments: false
 ---
 
-Coming soon.
+Coming soon. 
+
+## Currently reading
+
+## Pre-2019
+
+## 2019
+
 
