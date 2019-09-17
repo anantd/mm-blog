@@ -18,7 +18,7 @@ Superpumped, by Mike Isaac
 The Box, by Marc Levinson  
 How Asia Works, by Joe Studwell  
 The Dream Machine, by J.R. Licklider  
-
+Infinite Powers, by Steven Strogatz
 
 ## 2019
 
