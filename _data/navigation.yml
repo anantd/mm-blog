@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about
-  - title: "Posts"
+  - title: "Archive"
     url: /archive
   - title: "Notebooks"
     url: /notebooks
